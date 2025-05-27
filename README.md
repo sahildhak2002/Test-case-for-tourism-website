@@ -1,8 +1,8 @@
 # Test-case-for-tourism-website
-Short Description:
+# Short Description:
 This test case document is designed to validate core functionalities of a tourism website, including search, booking, contact form submission, and responsive layout. Each test case checks whether the respective feature behaves as expected under normal and edge conditions.
 
-Summary of Test Cases:
+# Summary of Test Cases:
 TC_TW_001 – Search for Tourist Places: Verifies that searching for a destination (e.g., "Goa") returns relevant tour packages. ✅ Pass
 
 TC_TW_002 – Book a Tour Package: Confirms that users can select and book a tour successfully after filling the booking form. ✅ Pass
